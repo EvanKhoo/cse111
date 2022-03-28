@@ -1,0 +1,47 @@
+Proposal for a Student Chosen Program
+
+(This is a proposal. All proposals are written with our best knowledge
+at the beginning of a project. As we progress from the beginning to the
+end of a project, we gain more knowledge, and some of the ideas we
+proposed change. This is part of completing any project and is fine.
+However, we still must write a proposal so that our teachers or
+supervisors know what we intend to do. Please answer each of the
+following questions to the best of your knowledge.)
+
+1. What is the title of your program?
+
+Easy MLA formatting
+
+2. What real world problem will your program address or help to solve?
+
+Citing online sources by inputing the URL of the website and retrieving the required amount of
+information to create a proper citation.
+
+3. What will you learn from developing this program?
+
+I will learn how to strip websites for information and how to formate that information
+into a certain readable format.
+
+4. What Python modules will your program use? (Some examples are: csv,
+datetime, functools, matplotlib, math, pandas, pytest, random, requests,
+and tkinter.)
+
+my program would use the datetime, csv, pytest modules and possibly more.
+
+5. Will you separate your Python program into functions that each
+perform a single task?
+
+Yes, for a program with this many moving parts I will definitely be breaking it down into
+smaller functions that do their own jobs.
+
+6. Will you write test functions to test many of your program functions?
+
+(Remember that it's hard to test functions that get user input and print
+output. It's easy to test functions that don't get user input and don't
+print output but instead have parameters and return a result. Therefore,
+you should write most of your program functions to have parameters and
+return a result.)
+
+I have plans to write test functions for all of the functions I plan on writing, However
+I am not sure that I will know how to write a test function for all of them. I will request
+the adequate help when appropriate.
