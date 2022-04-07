@@ -1,0 +1,32 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+
+    When working learning to work with dictionaries during the chemistry assignment
+it struck me how important functions are to dealing with large amounts of data
+and information. They helped break down problems and make them easily managable and
+easier to maintain which is great for large problems. It also makes finding, identifying
+and fixing bugs a lot easier as they are typically more self contained and lead a trail
+straight back to their function of origin.
+
+2. In your judgment, what is the value of test functions?
+
+    Test functions are great for testing normal functinos on a large range of variables
+and unpredictable inputs. This helps ensure that functions are working the way they are 
+supposed to and do not break unless under very extreme circumstances. Test functions also
+helps standardize quality and helps ensure that everything is up to the same expected
+quality level.
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+
+    I typically start by looking at the exact thing I just changed when a bug appears paired 
+with looking at the error codes that typically accompanie a bug. I do not use the VS code
+debugging feature as much as I should as it is incredibly useful and strong. From there I 
+back track my steps to ensure that there are no syntax and errors and search for the exact line
+of problem through a bit of hide and seek/trial and error. When it comes to actually solving 
+a coding problem a lot of it is trial and error, but I also do a lot of research on the exact
+kind of problem that I am dealing with and look at how others have dealt and fixed the problem.
+From there I adapt others solutions to the problem to better fit my code.

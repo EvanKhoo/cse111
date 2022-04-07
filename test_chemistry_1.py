@@ -20,7 +20,7 @@ def test_make_periodic_table():
     # Call the make_periodic_table and store the returned
     # periodic table in a variable named periodic_table_list.
     periodic_table_list = make_periodic_table()
-    assert isinstance(periodic_table_list, list), \
+    assert isinstance(periodic_table_list, dict), \
         "make_periodic_table function must return a list:" \
         f" expected a list but found a {type(periodic_table_list)}"
 
